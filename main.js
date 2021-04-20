@@ -20,7 +20,6 @@ const listOfArrays = [
         "The Apollotech Assassin B340 is an affordable wireless Guylthyulg with reliable connectivity, 12 months battery life and modern design",
         "The Greater hell magic mushroom were-quylthulg jumps over the lazy dog",
     ],
-
     [
         "DARN IT ALL TO HECK",
         "In contrast, there is little theoretical analysis or experimental study of memes.",
@@ -31,7 +30,6 @@ const listOfArrays = [
         "In this way, memes introduce new selectional forces and new kinds of variation into the cultural evolutionary process.",
         "The minds are habitats of the memes, and they are certainly limited in their capacity.",
     ],
-
     [
         "Do you know that game; the Creed of the Assassin - well yeah it's lame has heck",
         "'Loan Marino input', By Armani",
